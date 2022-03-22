@@ -4,5 +4,7 @@ public class MyTesthalid1 {
 
     // local den kod'a edit yapildi.
 
+    // remote'dan kod!a edit yapildi.
+
     // tekrar local edit.
 }
