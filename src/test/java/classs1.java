@@ -5,5 +5,7 @@ public class classs1 {
         // bu ilk classimiz
 
         System.out.println("our first class");
+
+        //main branch temizlik
     }
 }
